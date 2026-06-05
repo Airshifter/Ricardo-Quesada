@@ -194,6 +194,7 @@ if (d > 10){
 }
 else {
   still(1);
+  left(1);
   }
 }
 
